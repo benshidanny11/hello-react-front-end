@@ -16,7 +16,7 @@ const Greeting = () => {
 
   return (
     <section>
-      <h3>Hello react app</h3>
+      <h3>Hello react app frontend</h3>
       <p>
         Greetings:
         {greetingData}
